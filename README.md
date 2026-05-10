@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Genie-Liu/Genie-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jianshi Liu 👋
 
-Here are some ideas to get you started:
+### Senior Machine Learning Engineer | Recommendation Systems | AI Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build data-driven and AI-powered products with a focus on recommendation systems, scalable data platforms, and real-world user impact.
+
+</div>
+
+---
+
+## About Me
+
+I'm a Senior Machine Learning Engineer at Tubi, focused on building data-driven and AI-powered products.
+
+My background spans machine learning, recommendation systems, big data engineering, algorithm development, and quality engineering. Before Tubi, I worked as an Algorithm Engineer at Meituan and held engineering roles at Club Factory, ENTROBUS, and FAW-Volkswagen.
+
+I graduated from Shanghai Jiao Tong University with a Bachelor's degree in Mechanical Engineering.
+
+I'm interested in practical AI applications, recommendation systems, scalable data systems, and product-focused machine learning.
